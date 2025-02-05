@@ -7,9 +7,6 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
 
@@ -20,4 +17,4 @@
 <a href="https://liamharrison25.itch.io/" target="blank"><img align="center" src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" alt="itch.io" /><a/>
 
 ## Github Statistics
-<p><img src="https://github-readme-stats.vercel.app/api?username=liamharrison25&amp;show_icons=true" alt="Github Stats"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=liamharrison25&amp;show_icons=true&theme=transparent" alt="Github Stats"></p>
