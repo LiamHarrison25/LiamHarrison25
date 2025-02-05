@@ -2,7 +2,7 @@
 
 ## About
 
-Gameplay developer, nominated for best technical in the 2024 Ubisoft Game Lab Competition, studying at Champlain College. Expected to graduate in May 2025 with a Bachelors of Science in Game Programming. 
+Gameplay developer, nominated for best technical in the 2024 Ubisoft Game Lab Competition, studying at Champlain College. Expected to graduate in May 2025 with a Bachelor of Science in Game Programming. 
 
 I am passionate about video games and am interested in pursuing a career in game development. Working on video games has been a life long dream of mine. Ever since I started playing games when I was younger, I have always been interested in creating things I can call my own. From making custom Redstone machines in Minecraft, to messing around with forge in Halo, I have always enjoyed the creativity that can be brought out through video games. 
 
@@ -12,11 +12,11 @@ My most important skills are problem-solving and adaptability. These have helped
 
 ## Proficiencies
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=blue)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white&color=blue)
+![C](https://img.shields.io/badge/-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&color=blue)
+![Unity](https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white&color=black)
 
 <img align="center" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>
 
