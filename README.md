@@ -2,7 +2,7 @@
 
 ## About
 
-Gameplay developer, nominated for best technical in the 2024 Ubisoft Game Lab Competition, studying at Champlain College. Expected to graduate in May 2025 with a Bachelor of Science in Game Programming. 
+Gameplay developer, nominated for best technical in the 2024 Ubisoft Game Lab Competition, from Champlain College.
 
 I am passionate about video games and am interested in pursuing a career in game development. Working on video games has been a life long dream of mine. Ever since I started playing games when I was younger, I have always been interested in creating things I can call my own. From making custom Redstone machines in Minecraft, to messing around with forge in Halo, I have always enjoyed the creativity that can be brought out through video games. 
 
